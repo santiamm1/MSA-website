@@ -600,6 +600,10 @@ section {
   background-color: #f6f9fe;
 }
 
+.section-bgfaq {
+  background-color: #ffffff;
+}
+
 .section-title {
   text-align: center;
   padding-bottom: 30px;
